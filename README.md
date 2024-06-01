@@ -25,7 +25,7 @@ This notebook analyzes the EA FC24 player rating dataset to model how the game c
 
 ## Summary 📝
 
-✅ Ensured fairness by excluding biased features.
-✅ Achieved high accuracy with XGBoost.
-✅ Provided actionable insights through SHAP analysis.
+✅ Ensured fairness by excluding biased features.\n
+✅ Achieved high accuracy with XGBoost.\n
+✅ Provided actionable insights through SHAP analysis.\n
 ✅ Successfully developed a fair and robust model for EA FC24 player ratings.
