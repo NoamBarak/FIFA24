@@ -1,6 +1,6 @@
 # EA FC24 Player Rating Analysis ⚽
 
-## Overview
+## Overview 🔍
 This notebook analyzes the EA FC24 player rating dataset to model how the game calculates a player's overall score based on their attributes.
 
 ## Key Steps 🔑
