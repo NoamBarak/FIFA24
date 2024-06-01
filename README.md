@@ -23,7 +23,7 @@ This notebook analyzes the EA FC24 player rating dataset to model how the game c
    - Utilized SHAP graphs for feature importance and individual player score explanations.
 
 ## Summary 📝
-- Ensured fairness by excluding biased features.
-- Achieved high accuracy with XGBoost.
-- Provided actionable insights through SHAP analysis.
-- Successfully developed a fair and robust model for EA FC24 player ratings.
+✔️ Ensured fairness by excluding biased features.
+✔️ Achieved high accuracy with XGBoost.
+✔️ Provided actionable insights through SHAP analysis.
+✔️ Successfully developed a fair and robust model for EA FC24 player ratings.
