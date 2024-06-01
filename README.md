@@ -5,8 +5,8 @@ This notebook analyzes the EA FC24 player rating dataset to model how the game c
 
 ## Key Steps 🔑
 1. **Data Preprocessing**:
-- Handled high cardinality categorical features like 'Nation' and 'Club' to avoid sparse data.
-- Replaced 'Club Name' with 'Club Rate' to reduce parameters.
+   - Handled high cardinality categorical features like 'Nation' and 'Club' to avoid sparse data.
+   - Replaced 'Club Name' with 'Club Rate' to reduce parameters.
 
 2. **Gender Analysis**:
    - Investigated differences in male and female player distributions and their impact on model performance.
@@ -15,7 +15,7 @@ This notebook analyzes the EA FC24 player rating dataset to model how the game c
    - Identified top 20 features correlated with the overall score.
    - Used RFE (Recursive Feature Elimination) to select significant features.
 
-4. **Model Development**:
+4. **Model Development**: 
    - Dropped 'Nation' and 'Gender' to prevent bias.
    - Split data into training and test sets.
    - Chose XGBoost for its best performance and optimized hyperparameters.
