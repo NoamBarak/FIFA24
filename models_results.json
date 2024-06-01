@@ -1,0 +1,1 @@
+{"XGBoost": {"MSE Scores": 0.5946155916229322, "R2 Scores": 0.9874129581974447}, "Gradient Boosting": {"MSE Scores": 1.0716281750012333, "R2 Scores": 0.9773114615833677}, "Linear Regression": {"MSE Scores": 0.8737470480276912, "R2 Scores": 0.9815045653521912}, "KNN": {"MSE Scores": 3.413256153903929, "R2 Scores": 0.927787275190479}}

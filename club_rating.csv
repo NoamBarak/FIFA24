@@ -1,0 +1,762 @@
+Unique Clubs,club_rating
+Paris SG,10
+Manchester City,10
+Inter Miami CF,7
+Al Ittihad,8
+Real Madrid,10
+FC Bayern MÃ¼nchen,10
+FC Barcelona,10
+Liverpool,10
+Al Hilal,8
+Manchester Utd,9
+AtlÃ©tico de Madrid,10
+Napoli FC,9
+Inter,9
+Arsenal,9
+Milan,9
+Borussia Dortmund,9
+Spurs,9
+Newcastle Utd,9
+Al Ahli,7
+Roma FC,9
+Villarreal CF,9
+Al Nassr,8
+Chelsea,9
+Juventus,9
+Sevilla FC,9
+RC Celta,8
+Sassuolo,8
+Latium,9
+Aston Villa,9
+Frankfurt,8
+Leverkusen,9
+Al Shabab,7
+VfL Wolfsburg,8
+SC Freiburg,8
+RB Leipzig,9
+Real Sociedad,9
+AS Monaco,8
+RCD Mallorca,8
+SL Benfica,9
+FenerbahÃ§e,8
+Real Betis,9
+OL,8
+Fulham,8
+Athletic Club,9
+SC Braga,8
+Salernitana,7
+Brentford,8
+CA Osasuna,8
+Valencia CF,8
+CÃ¡diz CF,8
+FC Porto,8
+Rayo Vallecano,8
+Sporting CP,8
+Everton,8
+Galatasaray,8
+Girona FC,8
+Getafe CF,8
+Royal Antwerp FC,7
+West Ham,8
+Ajax,8
+Stade Rennais FC,8
+OM,8
+LOSC Lille,8
+Brighton,8
+Fiorentina,8
+Toronto FC,5
+TSG Hoffenheim,8
+OGC Nice,8
+Bergamo Calcio,9
+PSV,8
+RC Lens,8
+Nott'm Forest,8
+RSC Anderlecht,7
+Torino,8
+Elche CF,7
+Union Berlin,8
+LAFC,7
+Udinese,7
+Feyenoord,8
+Ettifaq FC,7
+Club Brugge,7
+Nashville SC,6
+M'gladbach,8
+Montpellier,7
+UD Las Palmas,7
+BeÅŸiktaÅŸ,8
+1. FSV Mainz 05,8
+Atlanta United,6
+Leicester City,8
+Boca Juniors,8
+Monza,8
+Crystal Palace,8
+River Plate,8
+New England,6
+UD AlmerÃ­a,8
+Al Riyadh,4
+Wolves,8
+Celtic,7
+Minnesota United,7
+Al Ain FC,6
+Strasbourg,7
+Stade de Reims,7
+FC Twente,7
+Trabzonspor,7
+Al Fateh,5
+AFC Bournemouth,8
+Philadelphia,7
+N.E.C. Nijmegen,6
+AZ,7
+Shanghai Port,5
+Austin FC,5
+Bologna,7
+Houston Dynamo,5
+1. FC KÃ¶ln,7
+SV Werder Bremen,7
+FC Nantes,7
+Genoa,7
+FC Lorient,7
+OL Reign,7
+Shakhtar Donetsk,7
+Karlsruher SC,6
+Rangers,7
+Burnley,7
+Granada CF,7
+FC Cincinnati,6
+Empoli,7
+Al Taawoun,4
+Sampdoria,6
+RCD Espanyol,8
+F.C. KÃ¸benhavn,7
+Spezia,6
+AEK Athens,8
+Talleres,7
+MKE AnkaragÃ¼cÃ¼,6
+VfB Stuttgart,7
+LA Galaxy,6
+KRC Genk,7
+Slavia Praha,7
+FC Dallas,6
+Pendikspor,6
+Al Fayha,5
+Sparta Praha,7
+Hajduk Split,7
+R. Valladolid CF,7
+Hellas Verona,7
+Cagliari,7
+VfL Bochum,7
+Sounders FC,6
+Dynamo Kyiv,7
+Damac FC,5
+Lecce,7
+Rongcheng FC,4
+Antalyaspor,6
+LDU Quito,6
+Real Salt Lake,6
+San Lorenzo,7
+Stade Brestois 29,7
+Panathinaikos,7
+St. Louis CITY SC,5
+Barcelona SC,7
+KAA Gent,7
+Wuhan 3 Towns,5
+Arouca,6
+FerencvÃ¡rosi TC,7
+FC Augsburg,7
+Al Wehda,5
+Independiente DV,7
+Norwich,7
+Clermont Foot 63,7
+Whitecaps FC,5
+D. AlavÃ©s,7
+Hannover 96,6
+Columbus Crew,5
+FC Basel 1893,6
+FC Midtjylland,7
+SC Paderborn 07,6
+Gaziantep,6
+Millonarios,7
+Racing Club,7
+Portimonense SC,6
+Toulouse FC,7
+sc Heerenveen,6
+BSC Young Boys,7
+Orlando City,6
+PAOK FC,7
+Atl. Nacional,6
+Al Khaleej,4
+RB Salzburg,7
+Viktoria PlzeÅˆ,7
+FC Lugano,5
+Servette FC,5
+Adana Demirspor,7
+Samsunspor,6
+Abha Club,5
+Cremonese,7
+Argentinos Jrs.,7
+Southampton,7
+BrÃ¸ndby IF,6
+Uni. CatÃ³lica,2
+Sheffield Utd,7
+Estudiantes,4
+Leeds United,7
+Al Hazem,4
+Libertad,7
+FK BodÃ¸/Glimt,6
+Burgos CF,6
+Casa Pia AC,6
+Portland Timbers,6
+Gil Vicente,5
+LanÃºs,7
+Charlotte FC,5
+BaÅŸakÅŸehir,7
+Palermo,7
+KaragÃ¼mrÃ¼k SK,6
+Al Okhdood,4
+Cerro PorteÃ±o,4
+Defensa,7
+VÃ©lez Sarsfield,6
+Olimpia,6
+R. Racing Club,6
+Konyaspor,6
+Hamburger SV,7
+FC NordsjÃ¦lland,5
+Hertha Berlin,7
+Heidenheim,7
+Havre AC,6
+RakÃ³w,6
+Rosario Central,6
+New York City FC,6
+Beijing Guoan,4
+Sparta Rotterdam,5
+Dinamo Zagreb,7
+Ulsan Hyundai,6
+Independiente,5
+PeÃ±arol,6
+BK HÃ¤cken,6
+SV Darmstadt 98,7
+Chicago Fire FC,5
+Ã‡aykur Rizespor,5
+Daegu FC,4
+KVC Westerlo,6
+Coventry City,6
+West Brom,7
+Sp. Charleroi,6
+SJ Earthquakes,6
+Real Zaragoza,6
+SD Eibar,7
+FC Vizela,5
+Melbourne City,5
+Junior,6
+Luton Town,7
+QPR,6
+D.C. United,5
+Pisa,6
+VitÃ³ria SC,7
+R. Union St.-G.,6
+FBC Melgar,5
+AtlÃ©tico TucumÃ¡n,6
+Tigre,6
+MalmÃ¶ FF,6
+Parma,6
+Millwall,6
+Alianza Lima,6
+Gimnasia,5
+HuracÃ¡n,6
+Molde FK,5
+Alanyaspor,5
+Farense,6
+Aucas,5
+KasÄ±mpaÅŸa,5
+Colo-Colo,6
+Hearts,6
+SK Sturm Graz,6
+FC St. Gallen,5
+Watford,6
+FC St. Pauli,6
+R. Sporting,6
+Amiens SC,5
+BolÃ­var,5
+Estoril Praia,6
+Shandong Taishan,5
+Tianjin JMT FC,6
+FC Luzern,5
+Al Tai,4
+Red Bulls,5
+Levante UD,7
+FC Seoul,5
+Huddersfield,5
+Rio Ave FC,6
+Venezia,6
+CF MontrÃ©al,5
+Cardiff City,6
+Central CÃ³rdoba,6
+Godoy Cruz,6
+Sivasspor,6
+Al Raed,4
+KV Mechelen,5
+Legia Warszawa,5
+FC Schalke 04,7
+Suwon FC,4
+Como,6
+Preston,6
+FC FamalicÃ£o,6
+LASK,6
+Shenzhen FC,2
+AS Saint-Ã‰tienne,7
+Apoel FC,6
+Ascoli,5
+FC ZÃ¼rich,5
+SK Rapid Wien,5
+GuaranÃ­,5
+Kayserispor,5
+Instituto,6
+Sunderland,6
+AJ Auxerre,5
+ColÃ³n,7
+Barracas Central,5
+Audax Italiano,4
+Standard LiÃ¨ge,6
+Middlesbrough,7
+CD Tenerife,6
+Lech PoznaÅ„,6
+Pohang Steelers,5
+Swansea City,6
+PogoÅ„ Szczecin,5
+Stoke City,6
+FC Metz,6
+Deportes Tolima,6
+Indep. MedellÃ­n,6
+Zhejiang Pro,3
+Aberdeen,5
+Belgrano,6
+Frosinone,6
+CD LeganÃ©s,5
+CS Emelec,6
+Jeonbuk Hyundai,6
+Ãguilas Doradas,5
+SD Huesca,6
+FC Utrecht,6
+RWD Molenbeek,5
+Santa Fe,5
+Colorado Rapids,5
+Blackburn Rovers,6
+Henan SSLM FC,3
+Newell's,6
+Sporting Cristal,6
+Nacional,6
+Boavista FC,6
+Angers SCO,6
+GD Chaves,6
+FC Cartagena,6
+ESTAC Troyes,5
+Valenciennes FC,4
+DÃ¼sseldorf,6
+Bari,6
+Vitesse,5
+Sheffield Wed,5
+Bordeaux,6
+Reggiana,5
+Birmingham City,6
+Kaiserslautern,6
+Hibernian,5
+RKC Waalwijk,4
+R. Oviedo,6
+Cobresal,5
+Universitario,6
+AC Ajaccio,5
+FCSB,6
+Fortuna Sittard,5
+SM Caen,6
+Melb. Victory,4
+ZagÅ‚Ä™bie Lubin,4
+DjurgÃ¥rdens IF,4
+Moreirense FC,5
+Bristol City,6
+AGF,6
+Lausanne-Sport,5
+AD AlcorcÃ³n,5
+SD Amorebieta,4
+Albacete BP,6
+Macarthur FC,3
+WS Wanderers,3
+FÃ¼rth,5
+Sarmiento,5
+Paris FC,5
+Jeju United,4
+Suwon Samsung,5
+Univ. Craiova,4
+Hatayspor,5
+Daejeon Citizen,4
+Quevilly Rouen,4
+SC Bastia,4
+Cangzhou FC,3
+OH Leuven,6
+1. FC NÃ¼rnberg,6
+Palestino,5
+Incheon United,5
+Hull City,6
+AIK,5
+Modena,5
+GÃ³rnik Zabrze,4
+Sporting KC,6
+Dep. Pereira,6
+FC Andorra,5
+Cienciano,5
+Holstein Kiel,5
+Changchun Yatai,3
+VÃ¥lerenga Fotball,4
+Ipswich,6
+Estrela Amadora,5
+Banfield,5
+1. FC Magdeburg,5
+Farul ConstanÈ›a,5
+Shanghai Shenhua,4
+Grenoble Foot 38,5
+Racing de Ferrol,5
+Randers FC,5
+Platense,6
+Peterborough,4
+Plymouth Argyle,5
+UniÃ³n,4
+VfL OsnabrÃ¼ck,5
+Cercle Brugge,5
+Meizhou Hakka,2
+Ternana,5
+Gangwon FC,4
+Rosenborg BK,5
+IF Elfsborg,4
+Rotherham Utd,5
+Piast Gliwice,4
+Hansa Rostock,5
+GwangJu FC,4
+Politehnica IaÈ™i,3
+Sydney FC,3
+Dep. Cuenca,5
+SÃ¼dtirol,4
+UCV,4
+FC Rapid 1923,4
+Grasshopper Club,4
+IFK NorrkÃ¶ping,4
+Gral. Caballero,3
+Ã‘ublense,5
+Silkeborg IF,4
+Barnsley,4
+Viking FK,5
+Braunschweig,5
+Bolton,4
+Cracovia,4
+CD MirandÃ©s,4
+Caracas F.C.,4
+Wolfsberger AC,4
+IFK GÃ¶teborg,4
+Hammarby IF,4
+Portsmouth,4
+ATK Mohun Bagan,2
+Derby County,5
+Qingdao Hainiu,2
+FeralpisalÃ²,5
+Bristol Rovers,3
+En Avant Guingamp,5
+CFR 1907 Cluj,5
+Villarreal CF B,4
+FC Winterthur,4
+Charlton Ath,4
+Catanzaro,4
+Western United,3
+FK Austria Wien,5
+Cosenza,5
+LillestrÃ¸m SK,4
+Heracles Almelo,5
+SV Sandhausen,4
+Jagiellonia,4
+Pau FC,5
+CD Eldense,5
+Ä°stanbulspor,4
+Brisbane Roar,2
+KAS Eupen,4
+Stockport,3
+Stade Lavallois,5
+Arminia Bielefeld,4
+STVV,4
+PEC Zwolle,4
+Nantong Zhiyun FC,2
+The Strongest,5
+Excelsior,4
+Club Magallanes,4
+Binacional,4
+Wehen Wiesbaden,4
+FCU 1948,4
+Newcastle Jets,2
+Oxford United,4
+KV Kortrijk,5
+Shamrock Rovers,3
+DelfÃ­n S.C.,8
+Go Ahead Eagles,4
+Reading,4
+Blackpool,4
+S. Ameliano,3
+Danubio,5
+FC Ingolstadt 04,4
+Viborg FF,4
+Austria Klagenfurt,4
+Odisha FC,1
+Cittadella,4
+Wigan Athletic,4
+Adelaide United,3
+Gillingham,3
+FC Erzgebirge Aue,3
+FC Volendam,3
+Wrexham AFC,3
+Notts County,2
+Sepsi OSK,4
+Dalian Pro,2
+St. Mirren,3
+Central Coast,2
+Puerto Cabello,5
+SV Elversberg,4
+Wycombe,4
+Mumbai City FC,2
+Yverdon Sport FC,4
+Hyderabad FC,1
+Radomiak Radom,4
+Dep. TÃ¡chira,4
+StabÃ¦k Fotball,3
+Perth Glory,3
+Burton Albion,3
+Odds BK,2
+Kerala Blasters,2
+Defensor,4
+IFK VÃ¤rnamo,3
+US Concarneau,3
+SK Brann,4
+Mansfield Town,3
+Almere City FC,5
+SC Austria,4
+FC Petrolul,3
+Est. de MÃ©rida,9
+Odense BK,4
+Sarpsborg 08,4
+Bengaluru FC,2
+1860 MÃ¼nchen,4
+Vejle Boldklub,3
+Well. Phoenix,2
+Metropolitanos,4
+FC BotoÈ™ani,3
+WSG Tirol,4
+StrÃ¸msgodset IF,3
+Monagas SC,4
+SaarbrÃ¼cken,4
+SCR Altach,3
+East Bengal,1
+FC Goa,2
+FC Hermannstadt,4
+GuabirÃ¡,3
+MjÃ¤llby AIF,2
+Tacuary,3
+Kalmar FF,3
+O. Petrolero,3
+SV Waldhof,3
+Warta PoznaÅ„,4
+FC Univ. Cluj,4
+FC Voluntari,4
+Kilmarnock,3
+TSV Hartberg,4
+Halmstads BK,3
+PreuÃŸen MÃ¼nster,3
+VfB LÃ¼beck,3
+Cambridge Utd,3
+USL Dunkerque,3
+Stade-Lausanne,3
+Dynamo Dresden,4
+St. Johnstone,3
+Rodez AF,4
+Korona Kielce,3
+Ross County,3
+Stal Mielec,3
+Shrewsbury,3
+Fleetwood Town,3
+Leyton Orient,3
+Blooming,4
+St. Pats,2
+Jahn Regensburg,3
+Aalesunds FK,3
+Viktoria KÃ¶ln,4
+Northampton,3
+Motherwell,2
+Hallescher FC,3
+Brommapojkarna,3
+IK Sirius,3
+Palmaflor,3
+Exeter City,3
+Carlisle United,3
+MSV Duisburg,3
+Livingston,3
+Lincoln City,3
+SC Verl,3
+Widzew ÅÃ³dÅº,3
+HJK Helsinki,4
+ÅKS ÅÃ³dÅº,3
+Salford City,3
+ÅšlÄ…sk WrocÅ‚aw,4
+UTA Arad,3
+FC Dinamo 1948,3
+Swindon Town,2
+NorthEast United,1
+Bradford City,3
+Derry City,2
+HamKam Fotball,3
+Rot-Weiss Essen,3
+TromsÃ¸ IL,3
+MK Dons,3
+FK Haugesund,3
+Sandefjord,2
+SC OÈ›elul GalaÈ›i,2
+Stevenage,3
+Port Vale,3
+Unterhaching,10
+Cheltenham Town,3
+Doncaster,5
+SC Freiburg II,2
+Lyngby BK,4
+Degerfors IF,3
+Dundee FC,2
+Grimsby Town,2
+Forest Green,3
+Walsall,2
+Tranmere Rovers,2
+B. Dortmund II,3
+Colchester,6
+Hvidovre IF,2
+Harrogate Town,2
+Blau-Weiss Linz,2
+Dundalk,2
+Chennaiyin FC,1
+Jamshedpur FC,1
+Barrow,2
+AFC Wimbledon,2
+Newport County,2
+Ruch ChorzÃ³w,2
+Sutton United,2
+Accrington,2
+Varbergs BoIS,2
+SSV Ulm 1846,2
+Puszcza,2
+Crewe Alexandra,2
+Morecambe,5
+Sligo Rovers,1
+Crawley Town,2
+Shelbourne,1
+Bohemian FC,2
+UCD AFC,1
+Cork City,1
+Drogheda United,1
+Punjab FC,1
+Rac. Louisville,-1
+Tromsø IL,-1
+Strømsgodset IF,-1
+Atlético Tucumán,-1
+Beşiktaş,-1
+Delfín S.C.,-1
+Vitória SC,-1
+FC Zürich,-1
+Kasımpaşa,-1
+Pogoń Szczecin,-1
+SGS Essen,-1
+FC Nordsjælland,-1
+Stabæk Fotball,-1
+Madrid CFF,-1
+VfB Lübeck,-1
+Houston Dash,-1
+Śląsk Wrocław,-1
+KC Current,-1
+Águilas Doradas,-1
+Warta Poznań,-1
+BK Häcken,-1
+Farul Constanța,-1
+Indep. Medellín,-1
+F.C. København,-1
+Feralpisalò,-1
+Lech Poznań,-1
+Viktoria Köln,-1
+Politehnica Iași,-1
+AS Saint-Étienne,-1
+AS Saint Étienne,-1
+Uni. Católica,-1
+MKE Ankaragücü,-1
+Peñarol,-1
+Glasgow City FC,-1
+Cádiz CF,-1
+AD Alcorcón,-1
+Saarbrücken,-1
+Çaykur Rizespor,-1
+Bolívar,-1
+Karagümrük SK,-1
+FK Bodø/Glimt,-1
+Viktoria Plzeň,-1
+Est. de Mérida,-1
+Atlético de Madrid,-1
+SC Oțelul Galați,-1
+Brøndby IF,-1
+UD Almería,-1
+D. Alavés,-1
+İstanbulspor,-1
+Zagłębie Lubin,-1
+Djurgårdens IF,-1
+NJ/NY Gotham,-1
+1860 München,-1
+Lillestrøm SK,-1
+Preußen Münster,-1
+FC Botoșani,-1
+Ferencvárosi TC,-1
+Dep. Táchira,-1
+Unión,-1
+Ruch Chorzów,-1
+Colón,-1
+Portland Thorns,-1
+UDG Tenerife,-1
+Sporting Huelva,-1
+CD Mirandés,-1
+Başakşehir,-1
+Washington Spirit,-1
+Angel City FC,-1
+Fürth,-1
+IFK Göteborg,-1
+Cerro Porteño,-1
+Vélez Sarsfield,-1
+Südtirol,-1
+Lanús,-1
+IFK Värnamo,-1
+FC Fleury 91,-1
+NC Courage,-1
+1. FC Köln,-1
+CF Montréal,-1
+Chicago Red Stars,-1
+Mjällby AIF,-1
+Orlando Pride,-1
+CD Leganés,-1
+Central Córdoba,-1
+VfL Osnabrück,-1
+Malmö FF,-1
+FC Bayern München,-1
+IFK Norrköping,-1
+ŁKS Łódź,-1
+Dijon FCO,-1
+1. FC Nürnberg,-1
+Standard Liège,-1
+Raków,-1
+Fenerbahçe,-1
+Guaraní,-1
+FC Rosengård,-1
+Guabirá,-1
+Vålerenga Fotball,-1
+FC Famalicão,-1
+Widzew Łódź,-1
+Real Madrid CF,-1
+San Diego Wave,-1
+Düsseldorf,-1
+Huracán,-1
+Górnik Zabrze,-1
+Ñublense,-1
+Levante LP,-1
