@@ -1,9 +1,9 @@
-# EA FC24 Player Rating Analysis
+# EA FC24 Player Rating Analysis ⚽
 
 ## Overview
 This notebook analyzes the EA FC24 player rating dataset to model how the game calculates a player's overall score based on their attributes.
 
-## Key Steps
+## Key Steps 🔑
 1. **Data Preprocessing**:
 - Handled high cardinality categorical features like 'Nation' and 'Club' to avoid sparse data.
 - Replaced 'Club Name' with 'Club Rate' to reduce parameters.
@@ -24,5 +24,5 @@ This notebook analyzes the EA FC24 player rating dataset to model how the game c
    - Improved MSE from 0.66 to 0.53.
    - Utilized SHAP graphs for feature importance and individual player score explanations.
 
-## Summary
+## Summary 📝
 This project developed a fair and accurate model to predict EA FC24 player ratings by carefully handling categorical data, ensuring bias mitigation, and selecting the best model and features.
